@@ -1,0 +1,5 @@
+__pycache__/
+aroma/
+env/
+migrations/
+.DS_store/
